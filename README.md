@@ -1,3 +1,4 @@
+# Astrology-Website
 # Stellar Insights - Astrology Prediction Website
 
 A beautiful, responsive astrology prediction website that collects birth details and sends them to an n8n webhook for personalized readings.
@@ -52,7 +53,7 @@ Astology/
 
 3. **Configure the webhook URL** in `script.js`:
    ```javascript
-   var WEBHOOK_URL = 'your-n8n-webhook-url-here';
+   var WEBHOOK_URL = 'https://yashsingh4564657.app.n8n.cloud/webhook-test/fcd2bb54-d5ba-4171-9fb0-c6ac30c1e098';
    ```
 
 4. **Serve the files** using one of these methods:
