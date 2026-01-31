@@ -1,4 +1,4 @@
-# Stellar Insights - Astrology Prediction Website
+# Vedic Reader - Astrology Prediction Website
 
 A beautiful, responsive astrology prediction website that collects birth details and sends birth details to an n8n webhook for personalized readings. The project includes a reference screenshot of the working n8n workflow.
 
